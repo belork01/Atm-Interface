@@ -183,7 +183,7 @@ public class ATMInterface
     }
     public static void main(String[] args)
     {
-        System.out.println("\n***********Welcome to MyBank Oasis Atm Interface **********");
+        System.out.println("\n***********Welcome to MyBank Interface **********");
         System.out.println("1.Register \n2.Exit");
         System.out.println("Choose one option : ");
         int choose=takeninteger(2);
